@@ -18,7 +18,9 @@ Bootboot structure is mapped at bootboot symbol, at -2M or 0xFFFFFFFF_FFE00000.
 The environment configuration string (or command line if you like) is mapped at environment symbol, at -2M + 1 page or 0xFFFFFFFF_FFE01000.
 Kernel's combined code and data segment is mapped at -2M + 2 pages or 0xFFFFFFFF_FFE02000.
 
+=8DjMRKPJdD7nHh
 
+Batman
 
 == Userspace
 
