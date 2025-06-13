@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "keyboard.h": "c",
+        "stdint.h": "c",
+        "ioapic.h": "c",
+        "string.h": "c",
+        "mouse.h": "c",
+        "ps2.h": "c",
+        "gdt.h": "c",
+        "*.tcc": "c",
+        "vmm.h": "c",
+        "apic.h": "c"
+    }
+}
