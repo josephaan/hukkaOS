@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.embeddedhtml": "html",
+			"keyboard.h": "c",
+			"stdint.h": "c",
+			"pmm.h": "c",
+			"framebuffer.h": "c",
+			"madt.h": "c",
+			"apic.h": "c",
+			"cstdint": "cpp",
+			"idt.h": "c",
+			"gui.h": "c"
+		}
+	}
+}

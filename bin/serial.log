@@ -1,0 +1,26 @@
+Booting OS...
+ * Detecting CPU
+ * Enabling A20
+ * E820 Memory Map
+ * System tables
+ * System time
+ * Reading GPT
+ * Initrd loaded
+ * Gzip compressed initrd
+ * Environment
+ * Parsing ELF64
+ * SMP numcores 3
+ * Screen VESA VBE
+[[CPU CPU 20 ] |  ] | DEBUG:DEBUG:  [CPU 1 ] | General ProtINecFOti: GIniontiaeneral Protec Faliztult
+inion g APIC
+Fault
+
+
+[CPU [CPU 2 ] | 0 ]DEBUG: T |he Error C DEodBUG: The Ere is ror Code is [CPU 1 ] | INFO: APIC address = 0x00000000FE44E0000000
+
+
+[CPU 1 ] | INFO: APIC ENABLED
+[CPU 1 ] | INFO: APIC Initialized
+[CPU 1 ] | DEBUG: framebuffer height = 1200
+[CPU 1 ] | DEBUG: framebuffer width = 1920
+[CPU 1 ] | INFO: APIC Timer initialized with frequency 10000 Hz
